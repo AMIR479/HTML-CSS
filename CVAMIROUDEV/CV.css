@@ -1,0 +1,63 @@
+body{
+    background-color: darkgray;
+}
+h2{
+    color: blue;
+    text-align: center;
+    background-color: cadetblue;
+    border-style: double;
+}
+*p{
+    color: black;
+}
+h3{
+    width: 300px;
+}
+#photo {
+    width: 120px;
+}
+#entete {
+    display: grid;
+    grid-template-columns:130px  1fr;   
+}
+
+#infos ul li  {
+    width: 300px;
+    margin-left: 0px; 
+    margin-right: 0px;
+    
+    text-decoration: none;
+    
+    
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#menu {
+        border: 2px solid black;
+    outline-color: blue;
+    outline-style: solid;
+}
+#menu li{
+    display:inline-block;
+}
+#form {
+    margin-top: 80px;
+}
+#compétences{
+    margin-top: 80px;
+}
+#Exp{
+    margin-top: 80px;
+}
+#langues{
+    margin-top: 80px;
+}
+#centre{
+    margin-top: 80px;
+}
+h1{
+    text-align: center;
+}
