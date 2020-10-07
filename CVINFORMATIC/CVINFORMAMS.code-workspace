@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "D:\\GITHUB\\BOOTSTRAP\\bootstrap-4.5.2-dist\\css"
+		},
+		{
+			"path": "D:\\GITHUB\\BOOTSTRAP\\bootstrap-4.5.2-dist\\js"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CVINFORMATIC"
+	}
+}

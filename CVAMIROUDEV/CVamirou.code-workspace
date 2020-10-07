@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\TPBOOSTRAP"
+		},
+		{
+			"path": "..\\..\\..\\TPBOOSTRAP\\grille"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TPBOOSTRAP"
+	}
+}
